@@ -1,4 +1,4 @@
-# Odin Recipes
+# Odin Boardgames
 
 This is a private training repository for the Odin Project Foundations Course. The goal is to create a basic
 website representing my collection of board games.
